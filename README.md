@@ -1,4 +1,4 @@
-# LEXGAN
+# LGAN
 
 Environment Setup
 
